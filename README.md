@@ -18,12 +18,16 @@ python version 3.0 or above
 
 To run python code:
 
-'python Positive News.py'
+<div class="bg-gray">
+  python Positive News.py
+</div>
 
 To launch Jupyter Notebook:
-'jupyter notebook'
 
- 
+<div class="bg-gray">
+  jupyter notebook
+</div>
+
  Upload the file on Jupyter dashboard
  
  ![1](https://user-images.githubusercontent.com/67739559/86486458-f1e0fb00-bd78-11ea-941a-40c3ad042ef3.jpg)
