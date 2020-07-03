@@ -16,10 +16,10 @@ python version 3.0 or above
 
 ## How to use?
 To run python code:
-> - python Positive News.py
+> python Positive News.py
 
 To launch Jupyter Notebook:
- > - jupyter notebook
+ > jupyter notebook
  Upload the file on Jupyter dashboard
  ![1](https://user-images.githubusercontent.com/67739559/86486458-f1e0fb00-bd78-11ea-941a-40c3ad042ef3.jpg)
  
