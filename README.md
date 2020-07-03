@@ -19,7 +19,10 @@ To run python code:
 > python Positive News.py
 
 To launch Jupyter Notebook:
- > jupyter notebook
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">jupyter notebook</a>
+</div>
+ 
  Upload the file on Jupyter dashboard
  ![1](https://user-images.githubusercontent.com/67739559/86486458-f1e0fb00-bd78-11ea-941a-40c3ad042ef3.jpg)
  
@@ -29,9 +32,13 @@ To launch Jupyter Notebook:
  Run each cell
  ![3](https://user-images.githubusercontent.com/67739559/86486561-35d40000-bd79-11ea-8ea9-cc07500d8ffd.jpg)
 
+## File Descriptions: 
+
 ### Libraries used: 
 - pandas
 - matplotlib.pyplot
+
+
 
 ## Conclusion
 It is found that most of the positive news headlines do not contain positive words from the dataset. 
